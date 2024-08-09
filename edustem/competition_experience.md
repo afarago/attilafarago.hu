@@ -13,10 +13,10 @@ tags:
 Meeting and working with awesome people all over the world as a coach, volunteer, judge, referree, head judge.
 
 | 2014-2024 | Team Coach @ private team [TövisCsapat](http://toviscsapat.hu)<br/>*<small>World Festival 2019 · Detroit Champion finalist</small>*<br/>*<small>World Festival 2017 · St.Louis Mechanical Robot Design runner up</small>*
-| 2024  | Head Judge Age Group Kids and Elementary @ WRO National Final Hungary, Győr <br/> [⭐️kids surprise rule](/assets/robotics/wro-2024-kids-meglepetes_szabaly.pdf), <br/> [⭐️elementary surprise rule](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly%20en.pdf) [hu](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly.pdf), [⭐️elementary extra challenge](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly%20en.pdf) [hu](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly.pdf)
+| 2024  | Head Judge Age Group Kids and Elementary @ WRO National Final Hungary, Győr <br/> [⭐️kids surprise rule 🇭🇺](/assets/robotics/wro-2024-kids-meglepetes_szabaly.pdf), <br/> [⭐️elementary surprise rule](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly%20en.pdf) [🇭🇺](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly.pdf), [⭐️elementary extra challenge](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly%20en.pdf) [🇭🇺](/assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly.pdf)
 |       | Head Judge @ WRO National Latvia, Valmiera
 |       | Head Judge @ WRO National Lithuania, Utena
-| 2023  | Head Judge Age Group Elementary @ WRO National Final Hungary, Győr  <br/> [⭐️elementary surprise rule hu](/assets/robotics/wro-2023-robomission-elementary-meglepetes_szabaly.pdf), [⭐️elementary extra challenge hu](/assets/robotics/wro-2023-robomission-elementary-meglepetes_szabaly.pdf)
+| 2023  | Head Judge Age Group Elementary @ WRO National Final Hungary, Győr  <br/> [⭐️elementary surprise rule 🇭🇺](/assets/robotics/wro-2023-robomission-elementary-meglepetes_szabaly.pdf), [⭐️elementary extra challenge 🇭🇺](/assets/robotics/wro-2023-robomission-elementary-meglepetes_szabaly.pdf)
 |       | Head Judge @ WRO National Lithuania, Panevėžys
 |       | Head Judge @ WRO National Serbia, Subotica
 |       | Head Judge @ WRO National Latvia, Valmiera

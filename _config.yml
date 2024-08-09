@@ -1,8 +1,7 @@
 title: Attila Faragó
-title_top: personal portfolio page
+title_top: Personal Portfolio
 description: >-
   Personal blog, hobbies and projects.
-keywords: Coding and swdev · Leadership · AFOL · STEM educator · Tinkerer · Smart Home · 3D-printing
 github_username: afarago
 repository: afarago/attilafarago.hu
 
@@ -20,12 +19,7 @@ plugins:
 search_enabled: false
 nav_enabled: true
 heading_anchors: true
-
 gh_edit_link: false # show or hide edit this page link
-
-# aux_links:
-#   "Just the Docs on GitHub":
-#     - "//github.com/just-the-docs/just-the-docs"
 
 footer_content: "Copyright &copy; 2024 Attila Farago."
 
