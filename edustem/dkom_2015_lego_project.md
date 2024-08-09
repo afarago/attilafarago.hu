@@ -9,7 +9,7 @@ tags:
 # Supply chain conveyor belt prototype
 
 **"simpLified supply chain rEsponse manaGement solutiOn"**\
-A demo project to manage response management based on maximizing total profit. 
+A demo project to manage response management based on maximizing total profit.
 
 A 2015 DKOM Budapest DemoJam entry by Balázs Buday and Attila Faragó of SAP Labs Hungary.
 

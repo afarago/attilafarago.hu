@@ -5,7 +5,7 @@ layout: page
 nav_order: 200
 ---
 
-## SAP Labs CEE Hub Programming Competition 2023
+# SAP Labs CEE Hub Programming Competition 2023
 
 [SAP Labs CEE Hub Programming Competition 2023](https://github.com/afarago/SLCEE-2023-PC)
 
@@ -21,4 +21,4 @@ Node app, hosted on GCP, Google App Engine.
 
 [Article: Six lessons learnt while deploying a coding competition code as a Google Cloud Platform App](https://www.linkedin.com/pulse/six-lessons-learnt-while-deploying-coding-competition-attila-farag%25C3%25B3).
 
-![slhpc](/assets/projects/coding_slhpc.png)
+![slhpc](assets/coding_slhpc.png)

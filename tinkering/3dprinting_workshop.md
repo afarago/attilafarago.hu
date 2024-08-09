@@ -13,6 +13,6 @@ tags:
 
 Multiple 3D printing workshops conducted in SAP Labs Hungary in 2022 and 2023.
 
-![3dptraining](/assets/projects/sap_3dprinting1.jpg)
-![3dptraining](/assets/projects/sap_3dprinting2.jpg)
-![3dptraining](/assets/projects/sap_3dprinting3.png)
+![3dptraining](assets/sap_3dprinting1.jpg)
+![3dptraining](assets/sap_3dprinting2.jpg)
+![3dptraining](assets/sap_3dprinting3.png)

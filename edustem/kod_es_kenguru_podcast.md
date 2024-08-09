@@ -11,7 +11,7 @@ tags:
 
 # Kód és Kenguru podcast by Attila, Kornél és Balázs
 
-![logo](/assets/projects/kod_es_kenguru.jpg){: .project-logo }
+![logo](assets/kod_es_kenguru.jpg){: .project-logo }
 
 A podcast about robotics technology, best practices, teams and events in Hungary
 
@@ -35,4 +35,4 @@ Robotika, építés, játék, tanulás... Ezekről beszélgetünk, segítünk el
 * Kód és Kenguru #2 - Edu Robotics Cup
 * Kód és Kenguru #1 - WRO Panama
 
-![logo](/assets/projects/kod_es_kenguru.jpg)
+![logo](assets/kod_es_kenguru.jpg)

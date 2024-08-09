@@ -13,4 +13,4 @@ I fully recommend the inspiration work and books of LEGO master Isogawa Yoshihit
 
 🔗[Isogava legostudio](http://isogawastudio.co.jp/legostudio/index.html)
 
-![lego drawing](/assets/projects/lego_drawing1.jpg)
+![lego drawing](assets/lego_drawing1.jpg)

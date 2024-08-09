@@ -18,9 +18,9 @@ tags:
 * Programming: Computherm Q8RF 868.35 MHz - ESPHome [custom component](https://github.com/afarago/esphome_component_computhermqrf).
 * Note: Combined RF receiver and transmitter to a single shield - fixing and isolating with a hot glue.
 
-![energy heating](/assets/projects/esp_heating1.jpg)
-![energy heating](/assets/projects/esp_heating2.jpg)
-![energy heating](/assets/projects/esp_heating3.jpg)
-![energy heating](/assets/projects/esp_heating4.jpg)
-![energy heating](/assets/projects/esp_heating5.jpg)
-![energy heating](/assets/projects/esp_heating6.jpg)
+![energy heating](assets/esp_heating1.jpg)
+![energy heating](assets/esp_heating2.jpg)
+![energy heating](assets/esp_heating3.jpg)
+![energy heating](assets/esp_heating4.jpg)
+![energy heating](assets/esp_heating5.jpg)
+![energy heating](assets/esp_heating6.jpg)

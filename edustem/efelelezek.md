@@ -1,5 +1,5 @@
 ---
-title: eFeLeLezek portal
+title: eFeLeLezek portál
 layout: project_page
 parent: STEM education and EduTech
 tags:
@@ -10,7 +10,7 @@ tags:
 
 # eFeLeLezek - "Kérdezz-Felelek-Efelelezek"
 
-![logo](/assets/projects/efelelezek_logo.png){: .project-logo }
+![logo](assets/efelelezek_logo.png){: .project-logo }
 
 [eFeLeLezek](https://sites.google.com/view/efelelezek/) - Kérdezz-Felelek-Efelelezek tapasztalatmegosztó könyvtár és portál a magyar FIRST LEGO League csapatok, csapatvezetők, mentorok eredményes és örömteli felkészülésének segítésére.
 

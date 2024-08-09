@@ -12,4 +12,4 @@ tags:
 
 This is a quick tutorial for using [Pybricks](https://pybricks.com/) Python in LEGO robotics Competitions such as [FIRST LEGO League](https://www.firstlegoleague.org/) and [World Robot Olympiad](https://wro-association.org/).
 
-🔗[Pybricks competition tutorial](http://pybricks-competition-tutorial.attilafarago.hu/)
+🔗Link to the [Pybricks competition tutorial](http://pybricks-competition-tutorial.attilafarago.hu/)

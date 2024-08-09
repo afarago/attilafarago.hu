@@ -17,7 +17,7 @@ tags:
 * Note: Custom 3D printed project box -- pictures show test state.
 * Note: Hate the hacky wiring in the alarm box, yet lacking the knowledge I will leave it as is for now.
 
-![DIY board](/assets/projects/esp_alarm0.jpg)
-![board in action](/assets/projects/esp_alarm1.jpg)
-![board with the alarm](/assets/projects/esp_alarm2.jpg)
-![wiring diagram](/assets/projects/esp_alarm3.png)
+![DIY board](assets/esp_alarm0.jpg)
+![board in action](assets/esp_alarm1.jpg)
+![board with the alarm](assets/esp_alarm2.jpg)
+![wiring diagram](assets/esp_alarm3.png)

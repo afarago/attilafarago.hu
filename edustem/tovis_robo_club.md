@@ -11,7 +11,7 @@ tags:
 
 # Tövis Robotics Club
 
-![logo](/assets/projects/tovis_logo.png){: .project-logo }
+![logo](assets/tovis_logo.png){: .project-logo }
 
 TövisCsapat Robotics has started its first team in 2014 on the First Lego League FLL robot programming competition. The team has connected over fifty kids with STEAM and programming so far.
 

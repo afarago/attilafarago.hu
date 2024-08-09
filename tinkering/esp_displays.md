@@ -13,8 +13,8 @@ tags:
 * Hardware: OLED displays, Waveshare e-paper
 * Wiring: SPI and I2C connection
 
-![esp display](/assets/projects/esp_display_test1.jpg)
-![esp display](/assets/projects/esp_display_test2.jpg)
-![esp display](/assets/projects/esp_display_test3.jpg)
-![esp display](/assets/projects/esp_display_test4.jpg)
+![esp display](assets/esp_display_test1.jpg)
+![esp display](assets/esp_display_test2.jpg)
+![esp display](assets/esp_display_test3.jpg)
+![esp display](assets/esp_display_test4.jpg)
 

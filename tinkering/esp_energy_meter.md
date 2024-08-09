@@ -17,7 +17,7 @@ tags:
 * Fun fact: the meter box has been installed in a funny way not exily to expose the user P1 port.\
   Nevertheless LEGO is my best ally to solve such issues.
 
-![energy meter](/assets/projects/esp_energymeter1.jpg)
-![energy meter](/assets/projects/esp_energymeter2.jpg)
-![energy meter](/assets/projects/esp_energymeter3.jpg)
+![energy meter](assets/esp_energymeter1.jpg)
+![energy meter](assets/esp_energymeter2.jpg)
+![energy meter](assets/esp_energymeter3.jpg)
 
