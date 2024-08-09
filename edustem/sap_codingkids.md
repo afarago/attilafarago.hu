@@ -8,7 +8,7 @@ tags:
   - SAP
 ---
 
-# SAP CodingKids Program 2015-2016
+# SAP CodingKids Program 2014-2016
 
 ![logo](assets/codingkids_cody.png){: .project-logo }
 
@@ -53,16 +53,12 @@ Folytatjuk a Scratch program bemutatását újabb iskoláknak és évfolyamoknak
 
 ## Hasznos linkek
 
-* CodingKids bevezetés - http://prezi.com/sdhyli47xbnc/scratch-nyilt-ora/
-* Scratch program - http://scratch.mit.edu
+* [CodingKids bevezetés](http://prezi.com/sdhyli47xbnc/scratch-nyilt-ora/)
+* [Scratch program](http://scratch.mit.edu)
 * Kapcsolat - Pásztor Bianka, Faragó Attila
 * SAP University Alliances - Ádám Dudits
 
 ### További információ, hasznos linkek
 
-* https://scratch.mit.edu/studios/675690/
-* https://scratch.mit.edu/studios/1508184/
-* http://zugloihajos.hu/hu/egy%C3%A9b/sap-coding-kids-p%C3%A1ly%C3%A1zat-2015-informatikai-programoz%C...
-* http://patrona.hu/buszkesegeink/programozas
-* http://events.codeweek.eu/view/1148/coding-kids/
-* http://go.sap.com/hungary/docs/download/2015/05/b0a424a5-287c-0010-82c7-eda71af511fa.pdf
+* [SAP CodingKids pályázat, 2014](https://scratch.mit.edu/studios/675690)
+* [SAP CodingKids pályázat, 2015](https://scratch.mit.edu/studios/1508184)

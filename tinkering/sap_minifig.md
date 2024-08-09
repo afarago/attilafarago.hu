@@ -19,5 +19,6 @@ Next organized an afternoon workshop within SAP Labs Hungary to assemble the bod
 It was fun for everyone!
 
 ![sap minifig](assets/sap_minifig.jpg)
+![sap minifig photo](assets/sap_minifig_photo.jpg)
 
 [LEGO building instructions LXF.](assets/sap_minifig4a.lxf)
