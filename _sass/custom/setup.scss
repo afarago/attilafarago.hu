@@ -1,0 +1,44 @@
+.h-4em {
+  height: 4em;
+}
+
+.main {
+  .project-yt {
+    margin-top: 1em;
+    margin-left: 1em;
+    clear: both;
+    float: right;
+  }
+
+  img:not(.project-logo) {
+    border: rgba(127, 127, 127, 0.2) 0.2em solid;
+    border-radius: 0.5em;
+  }
+  img.project-logo {
+    height: 4em;
+    float: right;
+    margin-left: 3em;
+  }
+  // img.rounded {
+  //     border-radius: 50%;
+  // }
+  img.profile {
+    border-radius: 50%;
+    border: rgba(127, 127, 127, 0.2) 0.2em solid;
+    height: 8em;
+    float: left;
+    clear: both;
+    position: relative;
+    top: -1em;
+    margin-right: 2em;
+  }
+
+  table.condensed td {
+    padding-block: 0em;
+  }
+
+  .label.page_tag {
+    background-color: #6f8faf;
+    margin-inline: 0.3em;
+  }
+}

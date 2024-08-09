@@ -1,0 +1,52 @@
+title: Attila Faragó
+title_top: personal portfolio page
+description: >-
+  Personal blog, hobbies and projects.
+keywords: Coding and swdev · Leadership · AFOL · STEM educator · Tinkerer · Smart Home · 3D-printing
+github_username: afarago
+repository: afarago/attilafarago.hu
+
+# Build settings
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-font-awesome-sass
+  # - jekyll-embed-video
+  # - jekyll-gallery-generator
+  # - jekyll-target-blank
+
+search_enabled: false
+nav_enabled: true
+heading_anchors: true
+
+gh_edit_link: false # show or hide edit this page link
+
+# aux_links:
+#   "Just the Docs on GitHub":
+#     - "//github.com/just-the-docs/just-the-docs"
+
+footer_content: "Copyright &copy; 2024 Attila Farago."
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  highlight:
+    color: yellow
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+aux_links:
+  "<i alt='linkedin'  class='fa-xl fa-brands fa-linkedin'></i>":
+    - "https://www.linkedin.com/in/afarago"
+  "<i alt='github'    class='fa-xl fa-brands fa-github'></i>":
+    - "https://github.com/afarago"
+  "<i alt='facebook'  class='fa-xl fa-brands fa-facebook'></i>":
+    - "https://www.facebook.com/attila.farago/"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "*README*"

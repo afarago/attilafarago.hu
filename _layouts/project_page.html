@@ -1,0 +1,10 @@
+---
+layout: page
+---
+
+{% if page.tags and page.tags[0] %}
+  {% include tag-list.html %}
+{% endif %}
+
+{{ content }}
+

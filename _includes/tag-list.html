@@ -1,0 +1,10 @@
+{% if page.tags %}
+
+  {% assign tags_sorted = page.tags | sort_natural %}
+
+  {% unless include.hide_prefix %}<strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>{% endunless %}
+  {% for tag_word in tags_sorted -%}
+    <span class="label page_tag">{{ tag_word }}</span>
+  {%- endfor %}
+
+{% endif %}
