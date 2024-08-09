@@ -1,18 +1,20 @@
 ---
-title: Cvekedlie küldetés
+title: Cvekedlia küldetés
 layout: project_page
 parent: Animation projects
 ---
 
 # Cvekedlia Küldetés - Gyereknapi mesés kódfejtő séta, 2021
 
-Cvekedlia küldetés ALKOTÓ csapat, avagy a Gyereknapi mesés kódfejtő séta létrehozói.
+Cvekedlia küldetés a COVID gyereknapjára született, amikor sehogysem lehetett a gyerekeknek a megszokott gyermeknapi örömteli programokat megszervezni.
 
-A [Káposztási Családok Egyesülete](https://kaposztasicsaladok.hu/) és a [Majorka Színház](http://www.majorkaszinhaz.hu/) és Faragó & László család bemutatja a CVEKEDLIA küldetést!
+Így egy alkotó csapat, avagy a Gyereknapi mesés kódfejtő séta létrehozói arra jutottak, hogy a lakóhelyünkön szerveznek egy mesés kódfejtő sétát.
 
-A Cvekedlia küldetés lejátszási listáját itt találjátok.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Fw2xp7XBpNiO46wN&amp;list=PLcEmaOarSBsYrNyEQLncwW7n3L7px0dap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> A [Káposztási Családok Egyesülete](https://kaposztasicsaladok.hu/) és a [Majorka Színház](http://www.majorkaszinhaz.hu/) és Faragó & László család bemutatja a CVEKEDLIA küldetést!
+> 
+> A Cvekedlia küldetés lejátszási listáját itt találjátok.
+> 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Fw2xp7XBpNiO46wN&amp;list=PLcEmaOarSBsYrNyEQLncwW7n3L7px0dap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Jobbról:
 A főszerepben: Táncsits Maja és András Tapolcsányi és Bodza
