@@ -45,9 +45,8 @@
   }
 }
 
-.site-header {
-  .site-title {
-    font-size: 1.5em !important;
-    font-weight: 100 !important;
-  }
+.site-header .site-title,
+.main-header .site-title {
+  font-weight: 100 !important;
+  @include fs-7;
 }
