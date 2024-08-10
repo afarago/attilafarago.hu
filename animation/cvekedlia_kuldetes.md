@@ -14,7 +14,7 @@ Cvekedlia küldetés a COVID gyereknapjára született, amikor sehogysem lehetet
 > 
 > A Cvekedlia küldetés lejátszási listáját itt találjátok.
 > 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Fw2xp7XBpNiO46wN&amp;list=PLcEmaOarSBsYrNyEQLncwW7n3L7px0dap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/JqUj2nztBT8?si=xHOk1E0RwVtcqWYh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Jobbról:
 A főszerepben: Táncsits Maja és András Tapolcsányi és Bodza
