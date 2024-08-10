@@ -26,7 +26,7 @@ Initial iterations:
   * ESP32 [ULP reed-switch](https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/) with periodic Wifi push.
 2. Xiaomi LYWSD03MMC temperature meter with custom firmware
   * [custom firmware](https://github.com/pvvx/ATC_MiThermometer) by pvvx
-  * discussions and idea leading Victor kindly adding reed counter, then having general DIY format extended to [BTHome](https://attilafarago.hu/bthome.io) protocol.
+  * discussions and idea leading Victor kindly adding reed counter, then having general DIY format extended to [BTHome](https://bthome.io) protocol.
 
 ![gasmeter](assets/gasmeter1.jpg)
 ![gasmeter](assets/gasmeter2.jpg)
