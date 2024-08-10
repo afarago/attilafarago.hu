@@ -29,9 +29,9 @@
     border: rgba(127, 127, 127, 0.2) 0.2em solid;
     height: 8em;
     float: left;
-    shape-outside: margin-box;
-    margin-right: 3em;
-    margin-top: -0.5em;    
+    shape-outside: circle();
+    margin-right: 2em;
+    margin-top: -0.5em;
   }
 
   table.condensed td {
