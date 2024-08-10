@@ -10,7 +10,7 @@ tags:
 
 # SAP LEGO Figure
 
-![sap minifig](assets/sap_minifig4.png){: .project-logo }
+![sap minifig](assets/sap_minifig4a.png){: .project-logo }
 
 I have re-modelled a famous LEGO minifig design to have SAP pixelated on the front, ordered all bricks and created a step-by-step instruction for 5 body parts, added the EV3 mindstorms kit to motorize it.
 
