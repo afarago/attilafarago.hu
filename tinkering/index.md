@@ -1,5 +1,5 @@
 ---
-title: Tinkering, Electronics and 3D-printing
+title: Tinkering and Electronics
 layout: page
 has_children: true
 nav_order: 102

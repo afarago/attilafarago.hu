@@ -1,7 +1,7 @@
 ---
 title: Kód és Kenguru podcast
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - podcast
   - LEGO

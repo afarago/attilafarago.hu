@@ -1,7 +1,7 @@
 ---
 title: LEGO App Tools
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - LEGO SPIKE
   - Mindstorms

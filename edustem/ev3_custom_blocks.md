@@ -1,7 +1,7 @@
 ---
-title: EV3 custom blocks
+title: EV3 Custom Blocks
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - EV3
   - mindstorms

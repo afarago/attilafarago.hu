@@ -1,7 +1,7 @@
 ---
-title: Pybricks competition tutorial
+title: Pybricks for competition
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - First Lego League
   - World Robot Olympiad

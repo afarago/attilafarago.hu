@@ -1,7 +1,7 @@
 ---
 title: Battery testing and Low-Energy Smart Devices
 layout: project_page
-parent: Tinkering, Electronics and 3D-printing
+parent: Tinkering and Electronics
 tags:
   - esp8266
   - esphome

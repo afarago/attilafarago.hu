@@ -1,7 +1,7 @@
 ---
 title: EV3 Tools
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - LEGO EV3
   - mindstorms

@@ -1,7 +1,7 @@
 ---
 title: SAP LEGO Figure
 layout: project_page
-parent: Tinkering, Electronics and 3D-printing
+parent: Tinkering and Electronics
 tags:
   - LEGO
   - Mindstorms

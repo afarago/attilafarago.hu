@@ -1,5 +1,5 @@
 ---
-title: STEM education and EduTech
+title: STEM Education and EduTech
 subtitle: FIRST LEGO League and World Robot Olympiad
 layout: project_page
 has_children: true

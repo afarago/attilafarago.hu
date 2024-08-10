@@ -1,7 +1,7 @@
 ---
 title: FLL, WRO experience
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 nav_order: 0
 tags:
   - First Lego League

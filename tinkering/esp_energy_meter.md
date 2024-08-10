@@ -1,7 +1,7 @@
 ---
 title: ESP Energy meter
 layout: project_page
-parent: Tinkering, Electronics and 3D-printing
+parent: Tinkering and Electronics
 tags:
   - smarthome
   - esp8266

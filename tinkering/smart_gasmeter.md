@@ -1,7 +1,7 @@
 ---
 title: Smart Gasmeter
 layout: project_page
-parent: Tinkering, Electronics and 3D-printing
+parent: Tinkering and Electronics
 tags:
   - LYWSD03MMC
   - esphome

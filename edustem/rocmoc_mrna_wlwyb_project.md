@@ -1,7 +1,7 @@
 ---
-title: Rock the Mock LEGO contest
+title: Rock the Mock contest
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - LEGO
 ---

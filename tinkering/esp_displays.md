@@ -1,7 +1,7 @@
 ---
-title: ESP Testing different displays
+title: ESP Testing Displays
 layout: project_page
-parent: Tinkering, Electronics and 3D-printing
+parent: Tinkering and Electronics
 tags:
   - esp8266
   - esphome

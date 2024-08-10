@@ -1,7 +1,7 @@
 ---
-title: Supply chain conveyor belt prototype
+title: LEGO supply chain DKOM
 layout: project_page
-parent: STEM education and EduTech
+parent: STEM Education and EduTech
 tags:
   - LEGO
 ---

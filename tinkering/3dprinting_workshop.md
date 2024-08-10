@@ -1,7 +1,7 @@
 ---
 title: 3D Printing Workshop
 layout: project_page
-parent: Tinkering, Electronics and 3D-printing
+parent: Tinkering and Electronics
 tags:
   - 3dprinting
   - training
