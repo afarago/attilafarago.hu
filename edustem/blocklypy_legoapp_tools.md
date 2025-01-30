@@ -31,6 +31,8 @@ Also available as a standalone [npm package and cli tool](https://www.npmjs.com/
 
 ![blocklypy](assets/blocklypy_npm.png)
 
+![blocklypy](assets/blocklypy-graph-educup2025.png)
+
 ## LEGO App Tools
 
 [LEGO App Tools](https://legoapptools.azurewebsites.net/) Various tools to help your life with LEGO SPIKE and modern Mindstorms apps.
