@@ -15,16 +15,17 @@ tags:
 
 ## BlocklyPy tool and package
 
-[BlocklyPy](https://blpy.attilafarago.hu/) SPIKE to Pybricks Wizard word-block converter to Pybricks python code - covering SPIKE, Robot Inventor and even EV3 both EV3Classroom and EV3Lab.
+[BlocklyPy](https://blpy.attilafarago.hu/) SPIKE and EV3 to Pybricks Wizard block-based code to Pybricks python code converter - covering SPIKE, Robot Inventor and even EV3 both EV3Classroom and EV3Lab.
 
 Functions:
 
-- List a SPIKE WordBlock/IconBlock or EV3Classroom/EV3Lab-EV3G program in a textual basic like language
+- List and analyze a SPIKE word-block, icon-block or EV3Classroom, EV3Lab .ev3g or .compiled binary .rbf program in a textual basic like language
 - Convert to [pybricks](https://pybricks.com) compatible Python code
 - Use variables and data wires properly
+- Generate dependency call graph
 - Copy & paste the code
 
-Also available as a standalong [npm package](https://www.npmjs.com/package/blocklypy).
+Also available as a standalone [npm package and cli tool](https://www.npmjs.com/package/blocklypy).
 
 ![blocklypy](assets/blocklypy_site.png)
 
