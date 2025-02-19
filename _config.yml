@@ -18,10 +18,11 @@ plugins:
 
 search_enabled: false
 nav_enabled: true
+nav_sort: case_insensitive
 heading_anchors: true
 gh_edit_link: false # show or hide edit this page link
 
-footer_content: "Copyright &copy; 2024 Attila Farago."
+footer_content: "Copyright &copy; 2025 Attila Farago."
 
 callouts:
   warning:

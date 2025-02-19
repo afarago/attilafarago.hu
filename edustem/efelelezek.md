@@ -15,3 +15,5 @@ tags:
 [eFeLeLezek](https://sites.google.com/view/efelelezek/) - Kérdezz-Felelek-Efelelezek tapasztalatmegosztó könyvtár és portál a magyar FIRST LEGO League csapatok, csapatvezetők, mentorok eredményes és örömteli felkészülésének segítésére.
 
 (Enablement site for FLL knowledge and best practice sharing for Hungarian teams).
+
+![efelelezek](assets/efelelezek.png)
