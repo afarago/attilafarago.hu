@@ -6,7 +6,7 @@ parent: Misc Coding Projects
 
 # Moral Mirror
 
-**Moral Mirror** is an interactive web experiment that explores moral decision-making through the lens of the classic trolley problem. Enter your personal credo, and see how an AI predicts your choices in a series of trolley dilemmas—scenarios where you must choose between two tragic outcomes.
+[**Moral Mirror**](https://moralmirror.attilafarago.hu) is an interactive web experiment that explores moral decision-making through the lens of the classic trolley problem. Enter your personal credo, and see how an AI predicts your choices in a series of trolley dilemmas—scenarios where you must choose between two tragic outcomes.
 
 🤔💡 I've always been fascinated by philosophical thought experiments, especially the trolley problem, which I first encountered in the show [The Good Place](https://www.imdb.com/title/tt4955642/)! It led to a long talk with my brother and inspired me to create something interactive to explore moral decision-making.
 
