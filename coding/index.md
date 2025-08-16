@@ -1,24 +1,11 @@
 ---
 title: Misc Coding Projects
-layout: page
-# has_children: true
-nav_order: 200
+subtitle: Coding projects
+layout: project_page
+has_children: true
+nav_order: 401
 ---
 
-# SAP Labs CEE Hub Programming Competition 2023
+# Miscellaneous Coding Projects
 
-[SAP Labs CEE Hub Programming Competition 2023](https://github.com/afarago/SLCEE-2023-PC)
-
-The goal of each team is to implement a client to ace the Dead-Man's-Draw card game using their language and tools of choice.
-
-During the competition period there are be several practice tournaments, while the competition closes with a grand tournament where teams' solutions compete against each other and the most victorious teams ace the SLCEE-PC-2023.
-
-Node app, hosted on GCP, Google App Engine.
-
-* [Github source](https://github.com/afarago/SLCEE-2023-PC)
-* [Web interface](https://slhpc2023.appspot.com/)
-* [Swagger REST API](https://slhpc2023.appspot.com/docs)
-
-[Article: Six lessons learnt while deploying a coding competition code as a Google Cloud Platform App](https://www.linkedin.com/pulse/six-lessons-learnt-while-deploying-coding-competition-attila-farag%25C3%25B3).
-
-![slhpc](assets/coding_slhpc.png)
+Here you'll find a collection of my miscellaneous coding projects, primarily built with TypeScript. These projects showcase a variety of tools, libraries, and experiments, reflecting my interest in modern web development, automation, and creative problem-solving. Each project highlights different aspects of TypeScript, from backend utilities to frontend applications.

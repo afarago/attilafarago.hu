@@ -14,10 +14,14 @@ Meeting and working with awesome people all over the world as a coach, volunteer
 
 | Year | Type | Activity |
 | - | - | - |
-| 2014-2024 | coach | Team Coach @ private team [TövisCsapat](http://toviscsapat.hu)<br/>*<small>World Festival 2019 · Detroit Champion finalist trophy</small>*<br/>*<small>World Festival 2017 · St.Louis Mechanical Robot Design runner up trophy</small>* |
+| 2014-2025 | coach | Team Coach @ private team [TövisCsapat](http://toviscsapat.hu)<br/>*<small>World Festival 2019 · Detroit Champion finalist trophy</small>*<br/>*<small>World Festival 2017 · St.Louis Mechanical Robot Design runner up trophy</small>* |
 | 2023-2025 | WRO   | Member of ECE Head Judge Network, Edutus University <small>(WRO, EduCup)<small> |
 | ___   | ___ | ___ | 
-| 2025  | EduCup  | Edu Robotics Cup 2025 rules and mat designer @ Kids age group <br> [mat](https://educup.org/wp-content/uploads/2025/01/Edu-Robotics-Cup-Kids-Rulebook-2024-2025_FINAL_01.16.pdf), [video](https://youtu.be/avw7r-xVPuU) |
+| 2025  | WRO     | Head Judge Category Robomission @ WRO National Hungary, Győr <br> [junior surprise rule](assets/robotics/wro-2025-rm-junior-meglepetes_szabaly.pdf), [junior extra challenge](assets/robotics/wro-2025-rm-junior-extra_szabaly.pdf) |
+|       | WRO     | Head Judge Kids @ WRO National Serbia, Zenta | 
+|       | WRO     | Head Judge @ WRO National Estonia, Tallinn | 
+|       | WRO     | Head Judge @ WRO National Lithuania, Kaunas |
+|       | EduCup  | Edu Robotics Cup 2025 rules and mat designer @ Kids age group <br> [mat](https://educup.org/wp-content/uploads/2025/01/Edu-Robotics-Cup-Kids-Rulebook-2024-2025_FINAL_01.16.pdf), [video](https://youtu.be/avw7r-xVPuU) |
 |       | EduCup   | Edu Robotics Cup 2025 🥇🏆 Winner @ Masters age group <br> [video](https://www.youtube.com/watch?v=biVGEByaTY8) |
 | 2024  | WRO     | Head Judge Age Group Robomission Elementary and Kids @ WRO National Final Hungary, Győr <br> [kids surprise rule 🇭🇺](/assets/robotics/wro-2024-kids-meglepetes_szabaly.pdf), [elementary surprise rule](assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly%20en.pdf) [🇭🇺](assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly.pdf), [elementary extra challenge](assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly%20en.pdf) [🇭🇺](assets/robotics/wro-2024-rm-elementary-meglepetes_szabaly.pdf) |
 |       | WRO     | Head Judge @ WRO National Latvia, Valmiera | 

@@ -19,19 +19,27 @@ tags:
 
 Functions:
 
-- List and analyze a SPIKE word-block, icon-block or EV3Classroom, EV3Lab .ev3g or .compiled binary .rbf program in a textual basic like language
+- List and analyze a SPIKE word-block, icon-block or EV3Classroom, EV3Lab .ev3g, .compiled binary .rbf and wedo2 programs in a text based language
 - Convert to [pybricks](https://pybricks.com) compatible Python code
 - Use variables and data wires properly
 - Generate dependency call graph
+- Summarize the code in a natural language format via AI
+- Fully supported [REST API](https://blpy.attilafarago.hu/api)
 - Copy & paste the code
 
 Also available as a standalone [npm package and cli tool](https://www.npmjs.com/package/blocklypy).
 
-![blocklypy](assets/blocklypy_site.png)
+![blocklypy](assets/blocklypy-site.png)
 
-![blocklypy](assets/blocklypy_npm.png)
+![blocklypy](assets/blocklypy-npm.png)
+
+![blocklypy](assets/blocklypy-github.png)
+
+![blocklypy](assets/blocklypy-aitools.png)
 
 ![blocklypy](assets/blocklypy-graph-educup2025.png)
+
+![blocklypy](assets/blocklypy-api.png)
 
 ## LEGO App Tools
 

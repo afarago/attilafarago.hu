@@ -1,5 +1,5 @@
 ---
-title: LEGO supply chain DKOM
+title: LEGO Supply Chain DKOM
 layout: project_page
 parent: STEM Education and EduTech
 tags:

@@ -1,5 +1,5 @@
 ---
-title: EV3 Tools
+title: EV3 Magic Tools
 layout: project_page
 parent: STEM Education and EduTech
 tags:
